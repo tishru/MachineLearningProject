@@ -1,2 +1,2 @@
-# MachineLearningProject
-App Performance Prediction with Supervised and Unsupervised ML Models
+# Machine Learning Project
+# App Performance Prediction with Supervised and Unsupervised ML Models
